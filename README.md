@@ -34,5 +34,5 @@
 
 ##
 
-![Snake animation](!)
+![Snake animation](https://github.com/lucasbalbino09/lucasbalbino09/blob/output/github-contribution-grid-snake.avg)
 
