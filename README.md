@@ -17,7 +17,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-<img align="right" alt="Lucas-foto" height="150" style="border-radius:100px;" src="https://instagram.fcgh54-1.fna.fbcdn.net/v/t51.2885-19/317205400_523453503009541_2247431501928324467_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcgh54-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cshtWMljk7UAX-SjLOB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDUN1gg48Bdrqobya-toT9qUQX25_MANHGamZbwfr4Arg&oe=63A32603&_nc_sid=8fd12b"> 
+<!--<img align="right" alt="Lucas-foto" height="150" style="border-radius:100px;" src="https://instagram.fcgh54-1.fna.fbcdn.net/v/t51.2885-19/317205400_523453503009541_2247431501928324467_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcgh54-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cshtWMljk7UAX-SjLOB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDUN1gg48Bdrqobya-toT9qUQX25_MANHGamZbwfr4Arg&oe=63A32603&_nc_sid=8fd12b"> -->
 </div>
 
 ##
