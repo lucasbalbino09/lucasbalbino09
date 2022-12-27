@@ -2,6 +2,7 @@
 
 - 🔭 Hoje Trabalho com : Back-end
 - 🌱 Estudando : Sql,.Net, Angular e Gestão de Pessoas
+- 😁 Vivendo e aprendendo no mundo da tecnologia. 
 
 ##
 
