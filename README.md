@@ -1,7 +1,7 @@
 ### Olá eu sou o Lucas Balbino ✌
 
 - 🔭 Hoje Trabalho com : Back-end
-- 🌱 Estudando : Sql,.Net , Angular e Gestão de Pessoas
+- 🌱 Estudando : Sql, .Net , Angular e Gestão de Pessoas
 - 😁 Vivendo e aprendendo no mundo da tecnologia. 
 
 ##
