@@ -21,9 +21,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" alt="Lucas-SQL-Server" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"     
-         src="https://media.discordapp.net/attachments/1021784427803717735/1057303438007992350/Riley.jpg?width=343&height=434">  
-
 </div>
 
 ##
