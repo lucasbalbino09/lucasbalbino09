@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas Balbino ✌
 
-- 🔭 Hoje Trabalho com : Back-end
+- 🔭 Hoje Trabalho com : EntityFramework
 - 🌱 Estudando : Sql, .Net , Angular e Gestão de Pessoas
 - 😁 Vivendo e aprendendo no mundo da tecnologia. 
 
