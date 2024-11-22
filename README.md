@@ -1,4 +1,8 @@
-### Olá eu sou o Lucas Balbino ✌
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456789&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=456789&size=35&center=true&vCenter=true&width=1000&lines=🖐️Olá,+Meu+nome+é+Lucas+Balbino;Seja+Bem+Vindo(a)+ao+meu+perfil+GitHub!+😉)](https://git.io/typing-svg)
+
+##
 
 - 🔭 Hoje Trabalho com : EntityFramework
 - 🌱 Estudando : Sql, .Net , Angular e Gestão de Pessoas
@@ -34,5 +38,5 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/lucasbalbino09/lucasbalbino09/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=456789&height=120&section=footer"/>       
